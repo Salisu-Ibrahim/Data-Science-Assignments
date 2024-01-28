@@ -1,1 +1,1 @@
-# Data-Science-Assignments
+# This repository is for Data Science Journey.
